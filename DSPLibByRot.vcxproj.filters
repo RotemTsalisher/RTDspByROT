@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DSPByROT.c">
+      <Filter>DSPLib</Filter>
+    </ClCompile>
+    <ClCompile Include="loggers.c">
+      <Filter>IOUtillities</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>app</Filter>
+    </ClCompile>
+    <ClCompile Include="ROTFileSys.c">
+      <Filter>fileSys</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DSPByROT.h">
+      <Filter>DSPLib</Filter>
+    </ClInclude>
+    <ClInclude Include="DSPEssentials.h">
+      <Filter>DSPLib</Filter>
+    </ClInclude>
+    <ClInclude Include="loggers.h">
+      <Filter>IOUtillities</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>app</Filter>
+    </ClInclude>
+    <ClInclude Include="lowLevelSys.h">
+      <Filter>lowLevelSys</Filter>
+    </ClInclude>
+    <ClInclude Include="lowLevelSys.c">
+      <Filter>lowLevelSys</Filter>
+    </ClInclude>
+    <ClInclude Include="ROTFileSys.h">
+      <Filter>fileSys</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DSPLib">
+      <UniqueIdentifier>{5f291692-20f0-4ad5-a76c-98145ac898b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IOUtillities">
+      <UniqueIdentifier>{9f30ab9f-b83d-4e77-8d5c-92397e06c8f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{2e9d5b46-1b7e-4beb-bdd8-1d5cab9b6f34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lowLevelSys">
+      <UniqueIdentifier>{7e4fdf44-0249-4a39-b829-dd44fb00d725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="fileSys">
+      <UniqueIdentifier>{91d3a0a2-e250-438a-9f8d-081a1a98b911}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

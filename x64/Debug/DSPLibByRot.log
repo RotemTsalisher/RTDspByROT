@@ -1,0 +1,16 @@
+﻿  DSPByROT.c
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(44,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(45,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(46,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(36,11): warning C4101: 'j': unreferenced local variable
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(36,8): warning C4101: 'i': unreferenced local variable
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(70,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\DSPByROT.c(75,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ROTFileSys.c
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\ROTFileSys.c(56,26): warning C4013: 'charToCmplx' undefined; assuming extern returning int
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\ROTFileSys.c(15,31): warning C4101: 'rRe': unreferenced local variable
+  loggers.c
+C:\Users\420\Desktop\DSPLibByRot\DSPLibByRot\loggers.c(22,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.c
+  Generating Code...
+  DSPLibByRot.vcxproj -> C:\Users\420\Desktop\DSPLibByRot\x64\Debug\DSPLibByRot.exe
